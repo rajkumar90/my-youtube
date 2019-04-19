@@ -13,5 +13,5 @@ The key classes are the following:
 
 Callaouts:
 1. The project has some dependencies managed via Gradle (For eg. I used some jax-rs and jpa annotations to specify REST resources and persistence classes)
-Due to this there may be compilation errors when the project is imported into IDE
+Due to this there may be compilation errors when the project is imported into IDE. The compilation errors will go off, once you update the gradle dependencies through your IDE
 2. Haven't written unit tests for any of the classes
